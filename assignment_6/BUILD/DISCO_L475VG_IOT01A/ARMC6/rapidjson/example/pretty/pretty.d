@@ -1,0 +1,35 @@
+BUILD/DISCO_L475VG_IOT01A/ARMC6/rapidjson/example/pretty/pretty.o: \
+  rapidjson/example/pretty/pretty.cpp \
+  BUILD/DISCO_L475VG_IOT01A/ARMC6/mbed_config.h \
+  rapidjson/include/rapidjson/reader.h \
+  rapidjson/include/rapidjson/allocators.h \
+  rapidjson/include/rapidjson/rapidjson.h \
+  rapidjson/include/rapidjson/msinttypes/stdint.h \
+  rapidjson/include/rapidjson/msinttypes/inttypes.h \
+  rapidjson/include/rapidjson/internal/meta.h \
+  rapidjson/include/rapidjson/internal/../rapidjson.h \
+  rapidjson/include/rapidjson/stream.h \
+  rapidjson/include/rapidjson/encodings.h \
+  rapidjson/include/rapidjson/encodedstream.h \
+  rapidjson/include/rapidjson/memorystream.h \
+  rapidjson/include/rapidjson/internal/clzll.h \
+  rapidjson/include/rapidjson/internal/stack.h \
+  rapidjson/include/rapidjson/internal/../allocators.h \
+  rapidjson/include/rapidjson/internal/swap.h \
+  rapidjson/include/rapidjson/internal/strtod.h \
+  rapidjson/include/rapidjson/internal/ieee754.h \
+  rapidjson/include/rapidjson/internal/biginteger.h \
+  rapidjson/include/rapidjson/internal/diyfp.h \
+  rapidjson/include/rapidjson/internal/pow10.h \
+  rapidjson/include/rapidjson/error/error.h \
+  rapidjson/include/rapidjson/error/../rapidjson.h \
+  rapidjson/include/rapidjson/prettywriter.h \
+  rapidjson/include/rapidjson/writer.h \
+  rapidjson/include/rapidjson/internal/strfunc.h \
+  rapidjson/include/rapidjson/internal/../stream.h \
+  rapidjson/include/rapidjson/internal/dtoa.h \
+  rapidjson/include/rapidjson/internal/itoa.h \
+  rapidjson/include/rapidjson/stringbuffer.h \
+  rapidjson/include/rapidjson/filereadstream.h \
+  rapidjson/include/rapidjson/filewritestream.h \
+  rapidjson/include/rapidjson/error/en.h

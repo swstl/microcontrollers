@@ -1,0 +1,12 @@
+{
+    "requires": ["bare-metal"],
+    "target_overrides": {
+      "*": {
+        "platform.stdio-baud-rate": 115200,
+        "target.c_lib": "small",
+        "target.printf_lib": "std",
+        "platform.minimal-printf-enable-floating-point": false,
+        "platform.stdio-minimal-console-only": true
+      }
+    }
+}
