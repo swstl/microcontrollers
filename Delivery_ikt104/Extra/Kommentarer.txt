@@ -1,0 +1,9 @@
+Under filmen "IKT-104 prosjektet", 
+hadde vi stilt inn alarmen til å automatisk skru seg av etter 10 sekunder,
+i stedet for 10 minutter. Slik at det skulle gå fortere å vise det i filmen.
+Det samme ble gjort med snooze knappen, hvor den ble mutet i 5 sekunder,
+i stedet for 5 minutter. Dette er også kommentert i koden (Variablene til Alarm klassen), 
+slik at det skal bli lettere å se at koden fungerer etter kravene til oppgaven.
+I innleveringen er disse variablene satt til den opprinnelige 10 min, og 5 min.
+
+Vi inkluderte også et koblingsskjema, slik at det skal være lettere å se hvordan vi har koblet opp oppgaven.
