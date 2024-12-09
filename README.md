@@ -1,6 +1,6 @@
-# IKT204 Microcontrollers
+# IKT104 Microcontrollers
 
-This repository contains coursework, assignments, and resources for the **IKT204 Microcontrollers** subject. The course focuses on understanding and programming microcontrollers, specifically the **B-L475E-IOT01A** IoT discovery kit. It covers a wide range of topics, from basic digital and analog I/O to advanced communication protocols and operating system features.
+This repository contains coursework, assignments, and resources for the **IKT104 Microcontrollers** subject. The course focuses on understanding and programming microcontrollers, specifically the **B-L475E-IOT01A** IoT discovery kit. It covers a wide range of topics, from basic digital and analog I/O to advanced communication protocols and operating system features.
 
 ## Course Overview
 
@@ -55,7 +55,7 @@ This repository serves as a centralized location for:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dogfetus/ikt204_microcontrollers.git
+   git clone https://github.com/Dogfetus/ikt104_microcontrollers.git
    ```
 2. Navigate to the desired assignment folder.
 3. Refer to the **README.md** or comments in the code files for specific instructions.
