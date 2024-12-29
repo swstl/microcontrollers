@@ -55,7 +55,7 @@ This repository serves as a centralized location for:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Dogfetus/ikt104_microcontrollers.git
+   git clone https://github.com/Dogfetus/microcontrollers.git
    ```
 2. Navigate to the desired assignment folder.
 3. Refer to the **README.md** or comments in the code files for specific instructions.
