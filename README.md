@@ -1,4 +1,4 @@
-# IKT104 Microcontrollers
+# Microcontrollers
 
 This repository contains coursework, assignments, and resources for the **IKT104 Microcontrollers** subject. The course focuses on understanding and programming microcontrollers, specifically the **B-L475E-IOT01A** IoT discovery kit. It covers a wide range of topics, from basic digital and analog I/O to advanced communication protocols and operating system features.
 
